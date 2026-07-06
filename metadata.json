@@ -1,0 +1,6 @@
+{
+  "name": "Typeracer",
+  "description": "Монгол хэл дээрх хурдан шивэлтийн Typeracer тоглоом. Хурдаа сорьж WPM болон алдаагаа хянах боломжтой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
